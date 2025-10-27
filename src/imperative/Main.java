@@ -2,7 +2,6 @@ package imperative;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 import static imperative.Main.Gender.FEMALE;
 import static imperative.Main.Gender.MALE;
